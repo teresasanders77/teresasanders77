@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on revamping some old projects and sites to give them a fresh new look.   
 I'm currently focusing on becoming a better react developer, and strengthening my knowledge of node.js.  
-Ask me about my career change! I love to inspire others to take the leap to create a better life :). 
+Ask me about my career change! I love to inspire others to take the leap to create a better life :).   
 Fun fact- I'm lucky enought to work from home and get to see Pikes Peak out of my window while I code. It's a dream!  
 
 
